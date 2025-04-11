@@ -1,11 +1,10 @@
 import React from 'react';
-import './usercard.css'; 
 
 const Usercard = () => {
     const profilePhoto = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png'; 
-    const name = 'kushal';
-    const email = 'k@example.com';
-    const phone = '9876543210';
+    const name = 'sandeep';
+    const email = 's@example.com';
+    const phone = '9876543219';
     const address = 'rajahmundry,andhrapradesh,india';
 
     return (
